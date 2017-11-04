@@ -8,5 +8,18 @@
 
 import Foundation
 
-print("Hello, World!")
+print("This the the add-it-ion game")
+print("Enter the first number")
 
+let firstNumber = readLine()
+
+print("Enter the second number")
+
+let secondNumber = readLine()
+
+if let firstCon = firstNumber: int? {
+    
+    }
+
+print(firstNumber)
+print(secondNumber)
